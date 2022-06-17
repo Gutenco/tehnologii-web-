@@ -1,0 +1,26 @@
+
+p {
+  font-family: 'IBM Plex Serif', serif;
+  font-size: 16px;
+  line-height: 29px;
+  vertical-align: baseline;
+  letter-spacing: normal;
+  word-spacing: 0;
+  text-align: justify;
+}
+
+img {
+ float : right;
+  width : 450px;
+  height: 620px;
+  padding-left: 15px ;
+
+}
+
+.container {
+  margin: auto;
+  width: 950px;
+  height: auto;
+  outline: dashed 1px black;
+}
+
